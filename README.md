@@ -1,7 +1,7 @@
 # FLRACEPV
 Information for the FLRACEP project.
 
-Main goal of the FLRACEP program: synergies, chances to work together, collaboration between different project.
+Main goal of the FLRACEP program: synergies, chances to work together, collaboration between the different selected project.
 
 Projects selected:
 a.	Dr. Dean Grubbs (FSU), “Understanding long-term community structure and population dynamics of large deep-sea fishes from De Soto Canyon to the West Florida Escarpment”
