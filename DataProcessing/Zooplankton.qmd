@@ -1,0 +1,47 @@
+# Zooplankton Biodiversity in the West Florida Shelf (2025-2027) 
+_By Ana Carolina Peralta, Linae Boehme, Reese More, Jackson Sullivan_  
+
+_Jackson, Reese, Linae, Carolina --> review the EcoTaxa and Aquatic Imager validation status and images; develop an inventory of questionable species identification images. 
+Zooplankton comparison framework (Linae)._ 
+
+## Introduction and Scope:
+
+[Literature review]{.underline}: past studies in the region > Kendra Daly; How Plankton on a Transect Relates to the West Florida Shelf’s Physiochemical Properties by Grace Humphrey; 
+Keith Keel et al; Megan Ferguson and K. Daly; Bich Vi Viviane Nguyen… see Literature folder in our Box project.
+
+Copepods, as primary forage for lanternfish (Myctophids), form a critical link in the food web that
+supports Rice’s whales in the nGOM. The interaction between the Loop Current front, upwelling in De Soto Canyon, and the Mississippi River plume are hotspots of productivity and biodiversity, 
+creating optimal conditions for lower trophic levels (phytoplankton and zooplankton) to thrive. These regions subsequently influence the abundance and distribution of higher trophic levels, including myctophids and other forage fish species. Understanding these interactions is essential for the sustainable management of coastal fisheries, as they depend on the health and productivity of these interconnected trophic networks.
+
+_Review the scientific question and hypothesis._
+
+_How do zooplankton/ichthyoplankton abundance and community composition in the study region vary across stations, depth and time in response to environmental conditions 
+(e.g., winds, currents, temperature, salinity, chlorophyll-a)?_
+
+## Overall Goal: 
+
+We will begin by establishing the baseline framework for the study, defining the key assumptions and sources of information based on the local knowledge and specific characteristics of the site or system 
+under investigation. We will integrate background knowledge from the scientific literature with the current project's zooplankton dataset to first characterize zooplankton community composition 
+across stations, depths, and sampling dates. In a second phase, we will examine how these communities respond to environmental conditions, including wind patterns, currents, temperature, salinity, and 
+chlorophyll-a concentrations.
+
+## Sampling Methodologies & Instruments:
+
+We selected 14 stations across the West Florida Shelf and De Soto Canyon for zooplankton sampling using nets with multiple mesh sizes. This approach allows us to capture a broad range of taxonomic groups and quantify their community composition, abundance, and biomass across the study area.
+Net sampling: Bongo Net (333µm) and Tucker trawl (500µm).
+Imaging system and resolutions: PlanktonScope (333µm), Aquatic Imager (500µm), and Stereoscope (333µm and 500µm) 
+Data Processing & Annotation Pipeline:
+Zooplankton samples collected using both sampling methods are analyzed with complementary imaging systems to quantify organism abundance and characterize taxonomic composition. For Bongo net samples (333-470 µm), organisms are imaged using the PlanktoScope system, and images are processed and annotated within the EcoTaxa platform. Machine learning algorithms are then applied to predict taxonomic community composition. 
+For Tucker trawl samples (>500 µm), organisms are analyzed using the Aquatic Imager system. Images are processed through Image Manager software, where annotation and machine learning-assisted classification are used to identify taxa and characterize community composition.
+To improve classification accuracy across sampling methods, an integrative analysis is conducted using stereomicroscopy coupled with a digital imaging system. Images are annotated and curated within the BIIGLE platform, providing additional validation of taxonomic identifications and supporting the integration of datasets derived from both PlanktoScope and Aquatic Imager approaches.
+Quality Control Roles: 
+Jackson, Reese, Linae, and Carolina reviewing EcoTaxa/Aquatic Imager validation and building an inventory of questionable species identifications.
+Expected outcomes: 
+Zooplankton community composition description, by stations depth and across time (cruises).
+Community composition:
+•	Relative abundance per taxonomic groups
+•	Species dominance/rare species
+•	Reatibve abundance of specific groups per time
+•	Functional groups> functional diversity of zooplankton.
+•	Compare these results with previous work in the area and/or global: review literature.
+•	Building the OBIS and GRIIDC dataset 
